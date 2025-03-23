@@ -1,3 +1,7 @@
+UYARI Dosyanın Büyük Olmasından Dolayı Projeyi yükleyemedim proje dosyalasını isteyen Bana ulaşabilir
+
+
+
 İftar Vakti Web Uygulaması
 İftar Vakti web sitesi, kullanıcılara bulundukları konuma göre iftar vakitlerini gösteren modern bir uygulamadır. Dinamik olarak saat dilimine uygun vakitler sunarak kullanıcıların iftar saatini öğrenmelerini sağlar.
 
